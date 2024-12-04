@@ -8,11 +8,13 @@
 
 /* Add these classes to your index.css file */
 .section-light-gray-1 {
-  background-color: #eaeaea;  /* Very light gray */
+  background-color: #eaeaea;
+  /* Very light gray */
 }
 
 .section-light-gray-2 {
-  background-color: #fafafa;  /* Slightly lighter gray */
+  background-color: #fafafa;
+  /* Slightly lighter gray */
 }
 
 #teaser-video {
@@ -112,25 +114,29 @@ footer a:hover {
   border-radius: 8px;
   background-color: #f9f9f9;
 }
+
 .comparison-title {
   width: 100%;
   text-align: center;
   margin-bottom: 1rem;
   font-weight: bold;
 }
+
 .comparison-set .video-item {
   flex: 1 1 30%;
   margin: 0.5rem;
   text-align: center;
 }
+
 .comparison-set .video-item video {
   width: 100%;
   height: auto;
   border-radius: 4px;
 }
+
 .comparison-set .description {
   margin-top: 0.5rem;
-  
+
 }
 
 img {
@@ -145,3 +151,4 @@ img[src$=".png"] {
   width: auto;
   height: auto;
 }
+
